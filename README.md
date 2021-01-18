@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [VUE](https://vuejs.org/)
 - :earth_americas: I'm living in Quito, Ecuador
 - :video_game: I like to watch movies
+
+
+
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=gnuxdar&show_icons=true&hide_border=true)
 
 ## Technologys:
