@@ -29,9 +29,7 @@ Here are some ideas to get you started:
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=gnuxdar&show_icons=true&hide_border=true)
 
 ## Technologys:
-<img src="https://www.php.net/images/logos/php-logo.svg" height="30px">
-<img src="https://laravel.com/img/logomark.min.svg" height="30px">
-<img src="https://i.imgur.com/scrcyJ3.png" height="30px">
+<img src="https://www.php.net/images/logos/php-logo.svg" height="30px"><img src="https://laravel.com/img/logomark.min.svg" height="30px"><img src="https://i.imgur.com/scrcyJ3.png" height="30px">
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" height="30px">
 <img src="https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png" height="30px">
 <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHvLVhwV-YgGA/company-logo_200_200/0?e=2159024400&v=beta&t=GW4TEt4KUUpG_U7cVuCLIwFfw_ge5DrBmYczuciU844" height="30px"> -->
