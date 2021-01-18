@@ -1,5 +1,3 @@
-### Hi there, I am Arturo Cabrera 👋
-
 <!--
 **GNUXDAR/gnuxdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
