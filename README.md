@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # Hi there, I am Arturo Cabrera 👋
 
-- 🔭 I’m currently working as CEO at [AC Tecnology](https://actecnologies.com/)
+- 🔭 I’m currently working as CEO at [AC Tecnology](https://actecnology.com/) and [AC](https://arturocabrera.com/)
 - 🌱 I’m currently learning [VUE](https://vuejs.org/)
--  I’m currently learning and working whit [magento2](https://business.adobe.com/products/magento/magento-commerce.html)
+- 😄 I’m currently learning and working whit [magento2](https://business.adobe.com/products/magento/magento-commerce.html)
 - :earth_americas: I'm living in Quito, Ecuador
 - :video_game: I like to watch movies
 
