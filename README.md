@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi there, I am Arturo Cabrera 👋
 
 - 🔭 I’m currently working as CEO at [AC Tecnology](https://actecnology.com/) and [AC](https://arturocabrera.com/)
-- 🌱 I’m currently learning [VUE](https://vuejs.org/)
+- 🌱 I’m currently learning [<a href ="https://www.python.org/" title="Python"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" height="30px"></a>](https://www.python.org/)
 - 😄 I’m currently learning and working whit [magento2](https://business.adobe.com/products/magento/magento-commerce.html)
 - :earth_americas: I'm living in Quito, Ecuador
 - :video_game: I like to watch movies
@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=gnuxdar&show_icons=true&hide_border=true)
 
 ## Technologys:
-<img src="https://www.php.net/images/logos/php-logo.svg" height="30px"><img src="https://laravel.com/img/logomark.min.svg" height="30px"><img src="https://i.imgur.com/scrcyJ3.png" height="30px"><img src="https://avatars.githubusercontent.com/u/168457?s=200&v=4" height="30px">
-<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" height="30px">
-<img src="https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png" height="30px">
+<a href="https://www.php.net/"><img src="https://www.php.net/images/logos/php-logo.svg" height="30px"></a><a href="https://laravel.com/"><img src="https://laravel.com/img/logomark.min.svg" height="30px"></a><!--<a href="https://vuejs.org/"><img src="https://i.imgur.com/scrcyJ3.png" height="30px"></a>--><a href="https://business.adobe.com/la/products/magento/magento-commerce.html"><img src="https://avatars.githubusercontent.com/u/168457?s=200&v=4" height="30px"></a>
+<a href ="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" height="30px"></a>
+<!-- <img src="https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png" height="30px">
 <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHvLVhwV-YgGA/company-logo_200_200/0?e=2159024400&v=beta&t=GW4TEt4KUUpG_U7cVuCLIwFfw_ge5DrBmYczuciU844" height="30px"> -->
 
 ## Social media :mailbox_with_no_mail:
