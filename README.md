@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="274" height="237" src="https://arturocabrera.com/img/logo.svg">
+<a href="https://arturocabrera.com/"><img align="right" width="274" height="237" src="https://arturocabrera.com/img/logo.svg"></a>
 
 # Hi there, I am Arturo Cabrera 👋
 
