@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - :video_game: I like to watch movies
 
 
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gnuxdar&layout=compact&langs_count=6)
+![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gnuxdar&layout=compact&langs_count=6&hide_border=true)
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=gnuxdar&show_icons=true&hide_border=true)
 
 ## Technologys:
