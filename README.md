@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - 😄 I’m currently learning and working whit [magento2](https://business.adobe.com/products/magento/magento-commerce.html)
 - :earth_americas: I'm living in Quito, Ecuador
 - :video_game: I like to watch movies
+- 📫 How to reach me: How to reach me: arturo.cabrera.dev@gmail.com
+  
 
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gnuxdar&layout=compact&langs_count=6&hide_border=true)
