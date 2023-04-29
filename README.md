@@ -17,8 +17,8 @@
 
 ## Technologys:
 
-<a href="https://www.php.net/"><img src="https://www.php.net/images/logos/php-logo.svg" height="30px"></a><a href="https://laravel.com/"><img src="https://laravel.com/img/logomark.min.svg" height="30px"></a><!--<a href="https://vuejs.org/"><img src="https://i.imgur.com/scrcyJ3.png" height="30px"></a>--><a href="https://business.adobe.com/la/products/magento/magento-commerce.html"><img src="https://avatars.githubusercontent.com/u/168457?s=200&v=4" height="30px"></a>
-<a href ="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" height="30px"></a>
+<a href="https://www.php.net/"><img src="https://www.php.net/images/logos/php-logo.svg" height="30px"></a><a href="https://codeigniter.com/"><img src="https://codeigniter.com/assets/icons/ci-footer.png" height="30px"></a><a href="https://laravel.com/"><img src="https://laravel.com/img/logomark.min.svg" height="30px"></a><!--<a href="https://vuejs.org/"><img src="https://i.imgur.com/scrcyJ3.png" height="30px"></a>--><a href="https://business.adobe.com/la/products/magento/magento-commerce.html"><img src="https://avatars.githubusercontent.com/u/168457?s=200&v=4" height="30px"></a>
+<a href ="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" height="30px"></a><a href ="https://flask.palletsprojects.com/en/2.3.x/"><img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-horizontal.png" height="30px"></a>
 
 <!-- <img src="https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png" height="30px">
 <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHvLVhwV-YgGA/company-logo_200_200/0?e=2159024400&v=beta&t=GW4TEt4KUUpG_U7cVuCLIwFfw_ge5DrBmYczuciU844" height="30px"> -->
