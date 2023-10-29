@@ -3,7 +3,7 @@
 # Hi there, I am Arturo Cabrera 👋
 
 - 🔭 I’m currently working as CEO at [AC Tecnology](https://actecnology.com/) and [ArturoCabrera.com](https://arturocabrera.com/)
-- 🌱 I’m currently learning [<a href ="https://www.python.org/" title="Python"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" height="30px"></a>](https://www.python.org/)
+- 🌱 I’m currently learning [<a href ="https://www.python.org/" title="Python"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" height="30px"></a>](https://www.python.org/) & [<a><img src="https://v2.vuejs.org/images/logo.svg" height="30px"></a>](https://vuejs.org/)
 - :computer: I’m currently learning and working with <a href="https://business.adobe.com/la/products/magento/magento-commerce.html"><img src="https://avatars.githubusercontent.com/u/168457?s=200&v=4" height="30px"></a>2
 - :earth_americas: I'm living in Quito, Ecuador
 - :video_game: I like to watch movies
