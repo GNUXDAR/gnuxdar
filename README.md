@@ -1,7 +1,5 @@
-<a href="https://arturocabrera.com/"><img align="right" width="274" height="237" src="https://arturocabrera.com/img/logo.svg"></a>
-
 # Hi there, I am Arturo Cabrera 👋
-
+<a href="htpps://arturocabrera.com"><img align="right" width="274" height="237" src="https://github.com/user-attachments/assets/9a370835-16e7-425b-a4a9-c5f74dede0e7"></a>
 - 🔭 I’m currently working as CEO at [AC Tecnology](https://actecnology.com/) and [ArturoCabrera.com](https://arturocabrera.com/)
 - 🌱 I’m currently learning [<a href ="https://www.python.org/" title="Python"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" height="30px"></a>](https://www.python.org/) & [<a><img src="https://v2.vuejs.org/images/logo.svg" height="30px"></a>](https://vuejs.org/)
 - :computer: I’m currently learning and working with <a href="https://business.adobe.com/la/products/magento/magento-commerce.html"><img src="https://avatars.githubusercontent.com/u/168457?s=200&v=4" height="30px"></a>2
@@ -25,9 +23,10 @@
 
 ## Social media :mailbox_with_no_mail:
 
-[![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/gnuxdar/)
-[![Instagram URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/gnuxdar/)
-[![Linkedin URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/arturo-cabrera/)
+[![X URL](https://img.shields.io/twitter/follow/gnuxdar?style=flat-square&logo=x&logoColor=0000&label=Follow&color=000)](https://x.com/gnuxdar/)
+[![X URL](https://img.shields.io/twitter/follow/gnuxdar?style=flat-square&logo=instagram&logoColor=0000&label=follow&color=b32821)](https://www.instagram.com/gnuxdar/)
+[![X URL](https://img.shields.io/twitter/follow/gnuxdar?style=flat-square&logo=linkedin&label=follow&color=0072b1)](https://www.linkedin.com/in/arturo-cabrera/)
+[![Youtube URL](https://img.shields.io/youtube/channel/subscribers/UCJYo8D21cZxPR9vC4IUXanA)](https://www.youtube.com/user/gnuxdar?sub_confirmation=1)
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -36,3 +35,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
