@@ -1,3 +1,4 @@
+[![An image of @gnuxdar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gnuxdar)](https://holopin.io/@gnuxdar)
 # Hi there, I am Arturo Cabrera 👋
 <a href="htpps://arturocabrera.com"><img align="right" width="274" height="237" src="https://github.com/user-attachments/assets/9a370835-16e7-425b-a4a9-c5f74dede0e7"></a>
 - 🔭 I’m currently working as CEO at [AC Tecnology](https://actecnology.com/) and [ArturoCabrera.com](https://arturocabrera.com/)
@@ -12,6 +13,7 @@
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gnuxdar&layout=compact&langs_count=8&hide_border=true)
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=gnuxdar&show_icons=true&hide_border=true)
+
 
 ## Technologys:
 
