@@ -38,3 +38,17 @@
 - ⚡ Fun fact: ...
 -->
 
+### 📹 Some Videos [Youtube Channel](https://youtube.com/gnuxdar?sub_confirmation=1) 📹 
+
+<a href='https://www.youtube.com/watch?v=0rDo5ggScUk&list=PL-gvMk21wYr45cmMEcqa8-CteI-hlu-1s&index=4' target='_blank'>
+  <img width='24%' src='https://img.youtube.com/vi/0rDo5ggScUk/mqdefault.jpg' title='Primeros Pasos para Crear tu Propia Página Web' />
+</a>
+<a href='https://www.youtube.com/watch?v=Uw_RZ7HbfLk' target='_blank'>
+  <img width='25%' src='https://img.youtube.com/vi/Uw_RZ7HbfLk/mqdefault.jpg' title='Eres desarrollador y no consigues trabajo?. Stay Calm!' />
+</a>
+<a href='https://www.youtube.com/watch?v=8MTx0vtqbMo' target='_blank'>
+  <img width='25%' src='https://img.youtube.com/vi/8MTx0vtqbMo/mqdefault.jpg' title='Redragon Fizz Pro vs. HyperX Alloy Origins 60 ' />
+</a>
+<a href='https://www.youtube.com/watch?v=HS5nVDLwFD0' target='_blank'>
+  <img width='24%' src='https://img.youtube.com/vi/HS5nVDLwFD0/mqdefault.jpg' title='¿Estamos Perdiendo Nuestras Habilidades como Desarrolladores?' />
+</a>
