@@ -9,6 +9,8 @@
 - 📫 How to reach me: arturo.cabrera.dev@gmail.com
 
 ## Please helpme with a star in this repo of [Python](https://github.com/GNUXDAR/scripts_py)
+## Please helpme with a star in this repo of [HTML+CSS]([https://github.com/GNUXDAR/scripts_py](https://github.com/GNUXDAR/frontend-design))
+
 
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gnuxdar&layout=compact&langs_count=8&hide_border=true)
