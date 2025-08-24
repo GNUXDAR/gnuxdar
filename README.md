@@ -17,7 +17,7 @@
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=gnuxdar&show_icons=true&hide_border=true)
 
 
-## Technologys:
+## Technology:
 <a href="https://www.youtube.com/playlist?list=PL-gvMk21wYr45cmMEcqa8-CteI-hlu-1s"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="undefined" width="30" height="30"></a>
 <a href="https://www.youtube.com/playlist?list=PL-gvMk21wYr5Cdvek9xLdVKQD8537O-BN"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/800px-Official_CSS_Logo.svg.png" class="mw-mmv-final-image svg mw-mmv-dialog-is-open" width="30" height="30"></a>
 <a href="https://www.youtube.com/user/gnuxdar?sub_confirmation=1"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" width="30" height="30"></a>
