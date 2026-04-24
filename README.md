@@ -2,6 +2,9 @@
 
 # Hi there, I am Arturo Cabrera 👋
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 <a href="https://arturocabrera.com"><img align="right" width="280" src="https://github.com/user-attachments/assets/9a370835-16e7-425b-a4a9-c5f74dede0e7"></a>
 
 - 🔭 I’m currently working as CEO at **[AC Tecnology](https://actecnology.com/)** and **[ArturoCabrera.com](https://arturocabrera.com/)**
