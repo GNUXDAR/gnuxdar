@@ -8,7 +8,7 @@
 <a href="https://arturocabrera.com"><img align="right" width="280" src="https://github.com/user-attachments/assets/9a370835-16e7-425b-a4a9-c5f74dede0e7"></a>
 
 - 🔭 I’m currently working as CEO at **[AC Tecnology](https://actecnology.com/)** and **[ArturoCabrera.com](https://arturocabrera.com/)**
-- 🌱 I’m currently learning <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" height="20"></a> & <a href="https://vuejs.org/"><img src="https://v2.vuejs.org/images/logo.svg" height="20"></a>
+- 🌱 I’m currently learning <a href="https://www.python.org/"><img src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png" alt="logo python" height="20"></a> & <a href="https://vuejs.org/"><img src="https://v2.vuejs.org/images/logo.svg" height="20"></a>
 - 💻 Working with <a href="https://business.adobe.com/la/products/magento/magento-commerce.html"><img src="https://avatars.githubusercontent.com/u/168457?s=200&v=4" height="20"></a> **Magento 2**
 - 🌎 Living in **Quito, Ecuador**
 - 🎮 I like to watch movies and tech content
@@ -32,7 +32,7 @@
   <a href="https://laravel.com/"><img src="https://laravel.com/img/logomark.min.svg" alt="laravel" height="40"></a>
   <a href="https://business.adobe.com/la/products/magento/magento-commerce.html"><img src="https://avatars.githubusercontent.com/u/168457?s=200&v=4" alt="magento" height="40"></a>
   <a href="https://www.shopify.com/"><img src="https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-shopping-bag-full-color-66166b2e55d67988b56b4bd28b63c271e2b9713358cb723070a92bde17ad7d63.svg" alt="shopify" height="40"></a>
-  <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" alt="python" height="40"></a>
+  <a href="https://www.python.org/"><img src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png" alt="logo python" height="40"></a>
 </p>
 
 ### ⭐ Support my work
