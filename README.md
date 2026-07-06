@@ -41,7 +41,10 @@
 
 ### 📹 Featured Videos on [gnuxdar News](https://youtube.com/gnuxdar?sub_confirmation=1)
 <p align="center">
-   <a href='https://www.youtube.com/watch?v=8efgLt7P2v8' target='_blank'>
+  <a href='https://www.youtube.com/watch?v=hsH8I7AmdvA' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/hsH8I7AmdvA/mqdefault.jpg' />
+  </a>
+  <a href='https://www.youtube.com/watch?v=8efgLt7P2v8' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/8efgLt7P2v8/mqdefault.jpg' />
   </a>
   <a href='https://www.youtube.com/watch?v=w90dr6Nhx9c' target='_blank'>
