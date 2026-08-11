@@ -41,6 +41,9 @@
 
 ### 📹 Featured Videos on [gnuxdar News](https://youtube.com/gnuxdar?sub_confirmation=1)
 <p align="center">
+  <a href='https://www.youtube.com/watch?v=3RZAHthiqlo' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/3RZAHthiqlo/mqdefault.jpg' />
+  </a>
   <a href='https://www.youtube.com/watch?v=hsH8I7AmdvA' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/hsH8I7AmdvA/mqdefault.jpg' />
   </a>
