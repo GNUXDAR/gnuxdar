@@ -16,12 +16,6 @@
 
 ---
 
-### 📊 My Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnuxdar&layout=compact&langs_count=8&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=gnuxdar&show_icons=true&hide_border=true" height="150" />
-</p>
-
 ### 🛠 Technologies & Stack:
 <p align="left">
   <a href="https://www.youtube.com/playlist?list=PL-gvMk21wYr45cmMEcqa8-CteI-hlu-1s"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" height="40"></a>
