@@ -34,9 +34,11 @@
 - 🐍 [Python Scripts Repo](https://github.com/GNUXDAR/scripts_py)
 - 🎨 [Frontend Design Repo](https://github.com/GNUXDAR/frontend-design)
 
-<!--
 ### 🏆 Certificates
+Coming soon — certificates will appear here when available.
 
+<!--
+Examples (commented):
 <a href="https://www.postman.com"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" alt="Postman" height="40" /></a>
 <a href="https://github.com/"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/GitHub%20Foundation.png" alt="GitHub Foundation" height="40" /></a>
 <a href="https://www.microsoft.com"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Microsoft.png" alt="Microsoft" height="40" /></a>
