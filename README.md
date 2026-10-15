@@ -8,7 +8,7 @@
 <a href="https://arturocabrera.com"><img align="right" width="280" src="https://github.com/user-attachments/assets/9a370835-16e7-425b-a4a9-c5f74dede0e7"></a>
 
 - 🔭 I'm currently working as CEO at **[AC Tecnology](https://actecnology.com/)** and **[ArturoCabrera.com](https://arturocabrera.com/)**
-- 🌱 I'm currently learning <a href="https://www.python.org/"><img src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png" alt="logo python" height="20"></a> & <a href="https://www.php.net/"><img src="https://www.php.net/images/logos/php-logo.svg" alt="logo php" height="20"></a>
+- 🌱 I'm currently learning <a href="https://www.python.org/"><img src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png" alt="logo python" height="20"></a>
 - 💻 Working with <a href="https://business.adobe.com/la/products/magento/magento-commerce.html"><img src="https://avatars.githubusercontent.com/u/168457?s=200&v=4" height="20"></a> **Magento 2**
 - 🌎 Living in **Quito, Ecuador**
 - 🎮 I like to watch movies and tech content
@@ -21,11 +21,14 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="40"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="40"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" height="40"></a>
+  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="vue" height="40"></a>
   <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" height="40"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" height="40"></a>
   <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" height="40"></a>
   <a href="https://business.adobe.com/la/products/magento/magento-commerce.html"><img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white" alt="magento" height="40"></a>
   <a href="https://www.shopify.com/"><img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="shopify" height="40"></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height="40"></a>
+  <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb" height="40"></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" height="40"></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="40"></a>
 </p>
