@@ -37,11 +37,20 @@
 ### 🏆 Certificates
 Coming soon — certificates will appear here when available.
 
+<!-- Ejemplos de certificados (copiados/añadidos al estilo de sanjay-kv) -->
 <!--
-Examples (commented):
 <a href="https://www.postman.com"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" alt="Postman" height="40" /></a>
 <a href="https://github.com/"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/GitHub%20Foundation.png" alt="GitHub Foundation" height="40" /></a>
 <a href="https://www.microsoft.com"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Microsoft.png" alt="Microsoft" height="40" /></a>
+<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/AWS.png" alt="AWS" height="40" /></a>
+<a href="https://cloud.google.com"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Google%20Cloud.png" alt="Google Cloud" height="40" /></a>
+<a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Docker.png" alt="Docker" height="40" /></a>
+<a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Kubernetes.png" alt="Kubernetes" height="40" /></a>
+<a href="https://www.coursera.org"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Coursera.png" alt="Coursera" height="40" /></a>
+<a href="https://www.udemy.com"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Udemy.png" alt="Udemy" height="40" /></a>
+<a href="https://www.linkedin.com/learning/"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/LinkedIn%20Learning.png" alt="LinkedIn Learning" height="40" /></a>
+<a href="https://www.hashicorp.com"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/HashiCorp.png" alt="HashiCorp" height="40" /></a>
+<a href="https://www.adobe.com"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Adobe.png" alt="Adobe" height="40" /></a>
 -->
 
 ### 📹 Featured Videos on [gnuxdar News](https://youtube.com/gnuxdar?sub_confirmation=1)
