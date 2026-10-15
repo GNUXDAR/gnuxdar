@@ -1,80 +1,77 @@
 [![An image of @gnuxdar's Holopin badges](https://holopin.me/gnuxdar)](https://holopin.io/@gnuxdar)
 
-# Hi there, I am Arturo Cabrera 👋
+# Arturo Cabrera 👋 — gnuxdar
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
-<a href="https://arturocabrera.com"><img align="right" width="280" src="https://github.com/user-attachments/assets/9a370835-16e7-425b-a4a9-c5f74dede0e7"></a>
-
-- 🔭 I'm currently working as CEO at **[AC Tecnology](https://actecnology.com/)** and **[ArturoCabrera.com](https://arturocabrera.com/)**
-- 🌱 I'm currently learning <a href="https://www.python.org/"><img src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png" alt="logo python" height="20"></a> & <a href="https:[...]
-- 💻 Working with <a href="https://business.adobe.com/la/products/magento/magento-commerce.html"><img src="https://avatars.githubusercontent.com/u/168457?s=200&v=4" height="20"></a> **Magento 2**
-- 🌎 Living in **Quito, Ecuador**
-- 🎮 I like to watch movies and tech content
-- 📫 Reach me: **arturo.cabrera.dev@gmail.com**
-
----
-
-### 🛠 Technologies & Stack:
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="40"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="40"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" height="40"></a>
-  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" height="40"></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" height="40"></a>
-  <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" height="40"></a>
-  <a href="https://magento.com/"><img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white" alt="magento" height="40"></a>
-  <a href="https://www.shopify.com/"><img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="shopify" height="40"></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" height="40"></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="40"></a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="hero" width="100%">
 </p>
 
+Resumen
+------
+Soy Arturo Cabrera, CEO en AC Tecnology y creador en ArturoCabrera.com. Trabajo en comercio electrónico (Magento 2, Shopify), desarrollo web con PHP/Laravel, y automatización con Python. Vivo en Quito, Ecuador.
+
+Contacto: arturo.cabrera.dev@gmail.com
+
+Sobre esta versión
+------------------
+Esta es una versión "premium" del README: más limpia, profesional y enfocada a proyectos y servicios. Si prefieres la versión anterior, puedo revertir los cambios sin problema.
+
+Tecnologías principales
+----------------------
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="40"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="40"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="40"></a>
+  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="40"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40"></a>
+  <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="40"></a>
+  <a href="https://magento.com/"><img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white" alt="Magento" height="40"></a>
+  <a href="https://www.shopify.com/"><img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" height="40"></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="40"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="40"></a>
+</p>
+
+Servicios / Lo que ofrezco
+--------------------------
+- Desarrollo y arquitectura de tiendas eCommerce (Magento 2, Shopify)
+- Desarrollo backend con PHP / Laravel
+- Automatización y scripting en Python
+- Migraciones, integraciones de APIs y optimización de rendimiento
+- Consultoría técnica y mentoría
+
+Portafolio y trabajos destacados
+--------------------------------
+Ver los proyectos en los repositorios:
+- https://github.com/GNUXDAR/scripts_py (Python)
+- https://github.com/GNUXDAR/frontend-design (Frontend)
+
+Certificados (plantilla)
+-------------------------
 <!--
-### 🏆 Certificates (uncomment and replace links/images when you add your certificates)
+Aquí dejo algunos ejemplos sacados del README de referencia. Cuando tengas tus certificados, descomenta y reemplaza los enlaces/imagenes.
 
 <a href="https://www.postman.com"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" alt="Postman" height="40" /></a>
-<a href="https://www.credential.net"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/GitHub%20Foundation.png" alt="GitHub Foundation" height="40" /></a>
+<a href="https://github.com/"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/GitHub%20Foundation.png" alt="GitHub Foundation" height="40" /></a>
 <a href="https://www.microsoft.com"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Microsoft.png" alt="Microsoft" height="40" /></a>
 
 -->
 
-### ⭐ Support my work
-- 🐍 [Python Scripts Repo](https://github.com/GNUXDAR/scripts_py)
-- 🎨 [Frontend Design Repo](https://github.com/GNUXDAR/frontend-design)
-
-### 📹 Featured Videos on [gnuxdar News](https://youtube.com/gnuxdar?sub_confirmation=1)
+Videos y contenido
+------------------
 <p align="center">
-  <a href='https://www.youtube.com/watch?v=3RZAHthiqlo' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/3RZAHthiqlo/mqdefault.jpg' />
-  </a>
-  <a href='https://www.youtube.com/watch?v=hsH8I7AmdvA' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/hsH8I7AmdvA/mqdefault.jpg' />
-  </a>
-  <a href='https://www.youtube.com/watch?v=8efgLt7P2v8' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/8efgLt7P2v8/mqdefault.jpg' />
-  </a>
-  <a href='https://www.youtube.com/watch?v=w90dr6Nhx9c' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/w90dr6Nhx9c/mqdefault.jpg' />
-  </a>
-  <a href='https://www.youtube.com/watch?v=0rDo5ggScUk' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/0rDo5ggScUk/mqdefault.jpg' />
-  </a>
-  <a href='https://www.youtube.com/watch?v=Uw_RZ7HbfLk' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/Uw_RZ7HbfLk/mqdefault.jpg' />
-  </a>
-  <a href='https://www.youtube.com/watch?v=8MTx0vtqbMo' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/8MTx0vtqbMo/mqdefault.jpg' />
-  </a>
-  <a href='https://www.youtube.com/watch?v=HS5nVDLwFD0' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/HS5nVDLwFD0/mqdefault.jpg' />
-  </a>
+  <a href="https://www.youtube.com/gnuxdar?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-gnuxdar-red?style=for-the-badge&logo=youtube" alt="YouTube"/></a>
 </p>
 
-### 📱 Social Media
+Redes
+-----
+<p align="center">
 <a href="https://x.com/gnuxdar/" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://www.tiktok.com/@gnuxdar" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
 <a href="https://www.instagram.com/gnuxdar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.linkedin.com/in/arturo-cabrera/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.facebook.com/arturo.cabrera1" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://www.youtube.com/user/gnuxdar?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</p>
+
+Notas finales
+-------------
+- Esta versión está pensada para mostrar profesionalismo y claridad. Si quieres más cambios (por ejemplo, traducción al inglés completa, más secciones, o un layout con columnas) dímelo y lo ajusto.
+- Si no te gusta, revertimos al commit anterior: indícame y lo hago.
