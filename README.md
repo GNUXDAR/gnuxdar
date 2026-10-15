@@ -79,7 +79,5 @@
 <a href="https://www.youtube.com/user/gnuxdar?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 
 <p align="center">
-  <a href="https://arturocabrera.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/9a370835-16e7-425b-a4a9-c5f74dede0e7" alt="Arturo Cabrera logo" width="220" />
-  </a>
+  <!-- Bottom logo removed as requested -->
 </p>
