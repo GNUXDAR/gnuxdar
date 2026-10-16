@@ -96,9 +96,5 @@ Coming soon — certificates will appear here when available.
 <a href="https://www.youtube.com/user/gnuxdar?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 
 <p align="center">
-  <img src="assets/profile-joined-github-dark-6369d0efb8b9.svg" alt="Joined GitHub" width="200" />
-</p>
-
-<p align="center">
   <!-- Bottom logo removed as requested -->
 </p>
