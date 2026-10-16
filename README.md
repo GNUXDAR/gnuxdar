@@ -7,14 +7,6 @@
 </p>
 <a href="https://arturocabrera.com"><img align="right" width="280" src="https://github.com/user-attachments/assets/9a370835-16e7-425b-a4a9-c5f74dede0e7"></a>
 
-<!-- Reproductor de prueba: clic para reproducir (GitHub no permite autoplay en README) -->
-
-### 🎵 Reproductor de prueba (haz clic en la miniatura para reproducir)
-
-[![▶️ Reproducir en YouTube](https://img.youtube.com/vi/tcKEoMJEY1U/hqdefault.jpg)](https://www.youtube.com/watch?v=tcKEoMJEY1U&t=5162s)
-
-> Nota: GitHub no permite reproducción automática de audio en el README y los navegadores bloquean el autoplay con sonido. Haz clic en la miniatura para abrir YouTube y reproducir la pista.
-
 - 🔭 I'm currently working as CEO at **[AC Tecnology](https://actecnology.com/)** and **[ArturoCabrera.com](https://arturocabrera.com/)**
 - 🌱 I'm currently learning <a href="https://www.python.org/"><img src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png" alt="logo python" height="20"></a>
 - 💻 Working with <a href="https://business.adobe.com/la/products/magento/magento-commerce.html"><img src="https://avatars.githubusercontent.com/u/168457?s=200&v=4" height="20"></a> **Magento 2**
@@ -62,7 +54,7 @@ Coming soon — certificates will appear here when available.
 <a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Kubernetes.png" alt="Kubernetes" height="40" /></a>
 <a href="https://www.coursera.org"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Coursera.png" alt="Coursera" height="40" /></a>
 <a href="https://www.udemy.com"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Udemy.png" alt="Udemy" height="40" />
-<a href="https://www.linkedin.com/learning/"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/LinkedIn%20Learning.png" alt="LinkedIn Learning" height="40" />
+<a href="https://www.linkedin.com/learning/"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/LinkedIn%20Learning.png" alt="LinkedIn Learning" height="40" /></a>
 <a href="https://www.hashicorp.com"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/HashiCorp.png" alt="HashiCorp" height="40" /></a>
 <a href="https://www.adobe.com"><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Adobe.png" alt="Adobe" height="40" /></a>
 -->
@@ -101,7 +93,7 @@ Coming soon — certificates will appear here when available.
 <a href="https://www.instagram.com/gnuxdar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.linkedin.com/in/arturo-cabrera/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.facebook.com/arturo.cabrera1" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://www.youtube.com/user/gnuxdar?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTu"></a>
+<a href="https://www.youtube.com/user/gnuxdar?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 
 <p align="center">
   <!-- Bottom logo removed as requested -->
