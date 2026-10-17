@@ -63,34 +63,48 @@ Coming soon — certificates will appear here when available.
 <!-- YOUTUBE-VIDEOS:START -->
 <p align="center">
   <a href='https://www.youtube.com/watch?v=3RZAHthiqlo' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/3RZAHthiqlo/mqdefault.jpg' />
+    <img width='23%' src='https://img.youtube.com/vi/3RZAHthiqlo/mqdefault.jpg' alt='&quot;Analizando&quot; la WEB OFICIAL de La Velada del Año y los Peleadores 🥊' />
+  </a>
+  <a href='https://www.youtube.com/watch?v=1zJ939nVqCk' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/1zJ939nVqCk/mqdefault.jpg' alt='¡EL JUEGO DEL AÑO? 🦎 Mecha Chameleon Gameplay' />
   </a>
   <a href='https://www.youtube.com/watch?v=hsH8I7AmdvA' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/hsH8I7AmdvA/mqdefault.jpg' />
+    <img width='23%' src='https://img.youtube.com/vi/hsH8I7AmdvA/mqdefault.jpg' alt='¡El fin de los juegos físicos! PlayStation confirma el cambio radical.' />
   </a>
   <a href='https://www.youtube.com/watch?v=8efgLt7P2v8' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/8efgLt7P2v8/mqdefault.jpg' />
+    <img width='23%' src='https://img.youtube.com/vi/8efgLt7P2v8/mqdefault.jpg' alt='Naruto x Bob Esponja: La creación más absurda y genial hecha con IA' />
   </a>
   <a href='https://www.youtube.com/watch?v=w90dr6Nhx9c' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/w90dr6Nhx9c/mqdefault.jpg' />
+    <img width='23%' src='https://img.youtube.com/vi/w90dr6Nhx9c/mqdefault.jpg' alt='Dejé de usar mi viejo audio: Unboxing de los nuevos DJI Mic Mini y Acer OHR631' />
   </a>
-  <a href='https://www.youtube.com/watch?v=0rDo5ggScUk' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/0rDo5ggScUk/mqdefault.jpg' />
+  <a href='https://www.youtube.com/watch?v=12gfNL4J9FM' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/12gfNL4J9FM/mqdefault.jpg' alt='Récord Mundial de Mentira: El streaming más largo hecho por BOTS' />
   </a>
-  <a href='https://www.youtube.com/watch?v=Uw_RZ7HbfLk' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/Uw_RZ7HbfLk/mqdefault.jpg' />
+  <a href='https://www.youtube.com/watch?v=GgTaKXYaVaw' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/GgTaKXYaVaw/mqdefault.jpg' alt='El Verdadero Costo del Código Sucio en el Software 🗑️' />
   </a>
-  <a href='https://www.youtube.com/watch?v=8MTx0vtqbMo' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/8MTx0vtqbMo/mqdefault.jpg' />
-  </a>
-  <a href='https://www.youtube.com/watch?v=HS5nVDLwFD0' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/HS5nVDLwFD0/mqdefault.jpg' />
+  <a href='https://www.youtube.com/watch?v=q7zVGtq1LXE' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/q7zVGtq1LXE/mqdefault.jpg' alt='🔵 CSS3 desde CERO: ¡INICIAMOS la Serie DEFINITIVA de Diseño Web!' />
   </a>
 </p>
 <!-- YOUTUBE-VIDEOS:END -->
 
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
+<p align="center">
+  <a href='https://www.youtube.com/shorts/FXu_sXOvTTs' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/FXu_sXOvTTs/mqdefault.jpg' alt='El nuevo auto volador de Tesla #elonmusk #tesla #roadster #gnuxdarnews' />
+  </a>
+  <a href='https://www.youtube.com/shorts/7g2KGYAchDA' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/7g2KGYAchDA/mqdefault.jpg' alt='La IA está volando literalmente' />
+  </a>
+  <a href='https://www.youtube.com/shorts/WWz_ETr4XcY' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/WWz_ETr4XcY/mqdefault.jpg' alt='Asta está de vuelta y los toros negros #elpersonajedelasemana' />
+  </a>
+  <a href='https://www.youtube.com/shorts/JFEQc6LyLeI' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/JFEQc6LyLeI/mqdefault.jpg' alt='Aprovechando el finde para colaborar con la comunidad de @MozillaDeveloper' />
+  </a>
+</p>
 <!-- YOUTUBE-SHORTS:END -->
 
 ### 📱 Social Media
