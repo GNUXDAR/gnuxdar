@@ -60,6 +60,18 @@ Coming soon — certificates will appear here when available.
 -->
 
 ### 📹 Featured Videos on [gnuxdar News](https://youtube.com/gnuxdar?sub_confirmation=1)
+<!--
+  Bot de YouTube (.github/workflows/youtube.yml + .github/scripts/update_youtube.py)
+  Actualiza los últimos 8 videos largos y los últimos 4 shorts cada 6 horas.
+  Horario (cron en UTC "0 */6 * * *"):
+    00:00 UTC = 7:00 p. m. Quito
+    06:00 UTC = 1:00 a. m. Quito
+    12:00 UTC = 7:00 a. m. Quito
+    18:00 UTC = 1:00 p. m. Quito
+  GitHub puede retrasar las corridas 5-30 min. Para actualizar al momento:
+  Actions -> Update YouTube videos -> Run workflow.
+  No editar a mano entre los marcadores YOUTUBE-...:START/END; el bot los reemplaza.
+-->
 <!-- YOUTUBE-VIDEOS:START -->
 <p align="center">
   <a href='https://www.youtube.com/watch?v=3RZAHthiqlo' target='_blank'>
