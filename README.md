@@ -60,6 +60,7 @@ Coming soon — certificates will appear here when available.
 -->
 
 ### 📹 Featured Videos on [gnuxdar News](https://youtube.com/gnuxdar?sub_confirmation=1)
+<!-- YOUTUBE-VIDEOS:START -->
 <p align="center">
   <a href='https://www.youtube.com/watch?v=3RZAHthiqlo' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/3RZAHthiqlo/mqdefault.jpg' />
@@ -86,6 +87,11 @@ Coming soon — certificates will appear here when available.
     <img width='23%' src='https://img.youtube.com/vi/HS5nVDLwFD0/mqdefault.jpg' />
   </a>
 </p>
+<!-- YOUTUBE-VIDEOS:END -->
+
+### 🎬 Latest Shorts
+<!-- YOUTUBE-SHORTS:START -->
+<!-- YOUTUBE-SHORTS:END -->
 
 ### 📱 Social Media
 <a href="https://x.com/gnuxdar/" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
