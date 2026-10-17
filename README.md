@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/hCUgwnXrFjk' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/hCUgwnXrFjk/mqdefault.jpg' alt='El auto Tesla que desafía las leyes de la física #tesla #elonmusk #automobile' />
+  </a>
   <a href='https://www.youtube.com/shorts/FXu_sXOvTTs' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/FXu_sXOvTTs/mqdefault.jpg' alt='El nuevo auto volador de Tesla #elonmusk #tesla #roadster #gnuxdarnews' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/WWz_ETr4XcY' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/WWz_ETr4XcY/mqdefault.jpg' alt='Asta está de vuelta y los toros negros #elpersonajedelasemana' />
-  </a>
-  <a href='https://www.youtube.com/shorts/JFEQc6LyLeI' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/JFEQc6LyLeI/mqdefault.jpg' alt='Aprovechando el finde para colaborar con la comunidad de @MozillaDeveloper' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
