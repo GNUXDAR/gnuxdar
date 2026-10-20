@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/MNrmGdoadx0' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/MNrmGdoadx0/mqdefault.jpg' alt='Cómo va de cabeza el nuevo Tesla? #tesla #roadster #tendencia' />
+  </a>
   <a href='https://www.youtube.com/shorts/hCUgwnXrFjk' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/hCUgwnXrFjk/mqdefault.jpg' alt='El auto Tesla que desafía las leyes de la física #tesla #elonmusk #automobile' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/7g2KGYAchDA' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/7g2KGYAchDA/mqdefault.jpg' alt='La IA está volando literalmente' />
-  </a>
-  <a href='https://www.youtube.com/shorts/WWz_ETr4XcY' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/WWz_ETr4XcY/mqdefault.jpg' alt='Asta está de vuelta y los toros negros #elpersonajedelasemana' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
