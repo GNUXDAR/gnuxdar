@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/BXQVZFH-Onc' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/BXQVZFH-Onc/mqdefault.jpg' alt='PHP alerta de Seguridad Urgente!' />
+  </a>
   <a href='https://www.youtube.com/shorts/MNrmGdoadx0' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/MNrmGdoadx0/mqdefault.jpg' alt='Cómo va de cabeza el nuevo Tesla? #tesla #roadster #tendencia' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/FXu_sXOvTTs' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/FXu_sXOvTTs/mqdefault.jpg' alt='El nuevo auto volador de Tesla #elonmusk #tesla #roadster #gnuxdarnews' />
-  </a>
-  <a href='https://www.youtube.com/shorts/7g2KGYAchDA' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/7g2KGYAchDA/mqdefault.jpg' alt='La IA está volando literalmente' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
