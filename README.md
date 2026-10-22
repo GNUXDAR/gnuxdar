@@ -74,6 +74,9 @@ Coming soon — certificates will appear here when available.
 -->
 <!-- YOUTUBE-VIDEOS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/watch?v=2et891_A0WU' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/2et891_A0WU/mqdefault.jpg' alt='PHP2Shell: la vulnerabilidad crítica de PHP (CVSS 9.2) — quién está en riesgo y cómo actualizar' />
+  </a>
   <a href='https://www.youtube.com/watch?v=3RZAHthiqlo' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/3RZAHthiqlo/mqdefault.jpg' alt='&quot;Analizando&quot; la WEB OFICIAL de La Velada del Año y los Peleadores 🥊' />
   </a>
@@ -94,9 +97,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/watch?v=GgTaKXYaVaw' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/GgTaKXYaVaw/mqdefault.jpg' alt='El Verdadero Costo del Código Sucio en el Software 🗑️' />
-  </a>
-  <a href='https://www.youtube.com/watch?v=q7zVGtq1LXE' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/q7zVGtq1LXE/mqdefault.jpg' alt='🔵 CSS3 desde CERO: ¡INICIAMOS la Serie DEFINITIVA de Diseño Web!' />
   </a>
 </p>
 <!-- YOUTUBE-VIDEOS:END -->
