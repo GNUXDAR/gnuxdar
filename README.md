@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/8WdFUWPUddk' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/8WdFUWPUddk/mqdefault.jpg' alt='Haz esto si aún no lo has pedido. #desarrolloweb💻 #programacion #php2shell' />
+  </a>
   <a href='https://www.youtube.com/shorts/OudWzdzk48E' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/OudWzdzk48E/mqdefault.jpg' alt='Frameworks y tiendas e-commerce afectadas por la vulnerabilidad de PHP #desarrolloweb💻' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/Eab63SSJMAQ' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/Eab63SSJMAQ/mqdefault.jpg' alt='Estás ramas fueron parcheadas #php #php2shell #desarrolloweb💻 #programacion #developer' />
-  </a>
-  <a href='https://www.youtube.com/shorts/Olhnu3WIq5c' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/Olhnu3WIq5c/mqdefault.jpg' alt='El score de PHP2SHELL es es 9.2 #desarrolloweb💻 #programacion #desarrolladores' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
