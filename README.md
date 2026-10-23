@@ -104,17 +104,17 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/OudWzdzk48E' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/OudWzdzk48E/mqdefault.jpg' alt='Frameworks y tiendas e-commerce afectadas por la vulnerabilidad de PHP #desarrolloweb💻' />
+  </a>
+  <a href='https://www.youtube.com/shorts/dGM-k8GhQ_g' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/dGM-k8GhQ_g/mqdefault.jpg' alt='estos son los servicios más afectados #desarrolloweb' />
+  </a>
   <a href='https://www.youtube.com/shorts/Eab63SSJMAQ' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/Eab63SSJMAQ/mqdefault.jpg' alt='Estás ramas fueron parcheadas #php #php2shell #desarrolloweb💻 #programacion #developer' />
   </a>
   <a href='https://www.youtube.com/shorts/Olhnu3WIq5c' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/Olhnu3WIq5c/mqdefault.jpg' alt='El score de PHP2SHELL es es 9.2 #desarrolloweb💻 #programacion #desarrolladores' />
-  </a>
-  <a href='https://www.youtube.com/shorts/8hHyeP_BHEo' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/8hHyeP_BHEo/mqdefault.jpg' alt='PHP2shell paralizó el mundo ayer #tecnologia #news #desarrolloweb💻 #programacion #developer' />
-  </a>
-  <a href='https://www.youtube.com/shorts/BXQVZFH-Onc' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/BXQVZFH-Onc/mqdefault.jpg' alt='PHP alerta de Seguridad Urgente!' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
