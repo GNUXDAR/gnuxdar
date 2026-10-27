@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/jHTMF6mso-A' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/jHTMF6mso-A/mqdefault.jpg' alt='La semana pasada trajo sus vulnerabilidades #desarrolloweb' />
+  </a>
   <a href='https://www.youtube.com/shorts/8WdFUWPUddk' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/8WdFUWPUddk/mqdefault.jpg' alt='Haz esto si aún no lo has pedido. #desarrolloweb💻 #programacion #php2shell' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/dGM-k8GhQ_g' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/dGM-k8GhQ_g/mqdefault.jpg' alt='estos son los servicios más afectados #desarrolloweb' />
-  </a>
-  <a href='https://www.youtube.com/shorts/Eab63SSJMAQ' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/Eab63SSJMAQ/mqdefault.jpg' alt='Estás ramas fueron parcheadas #php #php2shell #desarrolloweb💻 #programacion #developer' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
