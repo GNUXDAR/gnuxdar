@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/O4LEfhv0HJA' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/O4LEfhv0HJA/mqdefault.jpg' alt='Canal autónomo, Instagram por ahora #desarrolloweb' />
+  </a>
   <a href='https://www.youtube.com/shorts/jHTMF6mso-A' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/jHTMF6mso-A/mqdefault.jpg' alt='La semana pasada trajo sus vulnerabilidades #desarrolloweb' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/OudWzdzk48E' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/OudWzdzk48E/mqdefault.jpg' alt='Frameworks y tiendas e-commerce afectadas por la vulnerabilidad de PHP #desarrolloweb💻' />
-  </a>
-  <a href='https://www.youtube.com/shorts/dGM-k8GhQ_g' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/dGM-k8GhQ_g/mqdefault.jpg' alt='estos son los servicios más afectados #desarrolloweb' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
