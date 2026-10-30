@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/P-Gxa19QCuo' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/P-Gxa19QCuo/mqdefault.jpg' alt='💥Binance fue hackeado 🤯#gnuxdarnews #news #binance' />
+  </a>
   <a href='https://www.youtube.com/shorts/O4LEfhv0HJA' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/O4LEfhv0HJA/mqdefault.jpg' alt='Canal autónomo, Instagram por ahora #desarrolloweb' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/8WdFUWPUddk' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/8WdFUWPUddk/mqdefault.jpg' alt='Haz esto si aún no lo has pedido. #desarrolloweb💻 #programacion #php2shell' />
-  </a>
-  <a href='https://www.youtube.com/shorts/OudWzdzk48E' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/OudWzdzk48E/mqdefault.jpg' alt='Frameworks y tiendas e-commerce afectadas por la vulnerabilidad de PHP #desarrolloweb💻' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
