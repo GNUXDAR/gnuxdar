@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/-8p6IJ5Xj08' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/-8p6IJ5Xj08/mqdefault.jpg' alt='La recomendación para este fin de semana es la miniserie de #elcodigodeladiscordia #programacion' />
+  </a>
   <a href='https://www.youtube.com/shorts/tnCxHSzCWjA' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/tnCxHSzCWjA/mqdefault.jpg' alt='El mayor robo de criptos #gnuxdarnews' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/O4LEfhv0HJA' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/O4LEfhv0HJA/mqdefault.jpg' alt='Canal autónomo, Instagram por ahora #desarrolloweb' />
-  </a>
-  <a href='https://www.youtube.com/shorts/jHTMF6mso-A' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/jHTMF6mso-A/mqdefault.jpg' alt='La semana pasada trajo sus vulnerabilidades #desarrolloweb' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
