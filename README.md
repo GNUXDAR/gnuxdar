@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/tnCxHSzCWjA' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/tnCxHSzCWjA/mqdefault.jpg' alt='El mayor robo de criptos #gnuxdarnews' />
+  </a>
   <a href='https://www.youtube.com/shorts/P-Gxa19QCuo' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/P-Gxa19QCuo/mqdefault.jpg' alt='💥Binance fue hackeado 🤯#gnuxdarnews #news #binance' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/jHTMF6mso-A' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/jHTMF6mso-A/mqdefault.jpg' alt='La semana pasada trajo sus vulnerabilidades #desarrolloweb' />
-  </a>
-  <a href='https://www.youtube.com/shorts/8WdFUWPUddk' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/8WdFUWPUddk/mqdefault.jpg' alt='Haz esto si aún no lo has pedido. #desarrolloweb💻 #programacion #php2shell' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
