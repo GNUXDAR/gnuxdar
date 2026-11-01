@@ -74,6 +74,9 @@ Coming soon — certificates will appear here when available.
 -->
 <!-- YOUTUBE-VIDEOS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/watch?v=f3ettKmm1sg' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/f3ettKmm1sg/mqdefault.jpg' alt='La IA no es un escudo mágico: las nuevas vulnerabilidades de la ciberseguridad' />
+  </a>
   <a href='https://www.youtube.com/watch?v=2et891_A0WU' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/2et891_A0WU/mqdefault.jpg' alt='PHP2Shell: la vulnerabilidad crítica de PHP (CVSS 9.2) — quién está en riesgo y cómo actualizar' />
   </a>
@@ -95,15 +98,15 @@ Coming soon — certificates will appear here when available.
   <a href='https://www.youtube.com/watch?v=12gfNL4J9FM' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/12gfNL4J9FM/mqdefault.jpg' alt='Récord Mundial de Mentira: El streaming más largo hecho por BOTS' />
   </a>
-  <a href='https://www.youtube.com/watch?v=GgTaKXYaVaw' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/GgTaKXYaVaw/mqdefault.jpg' alt='El Verdadero Costo del Código Sucio en el Software 🗑️' />
-  </a>
 </p>
 <!-- YOUTUBE-VIDEOS:END -->
 
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/6VwDUMnqc5A' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/6VwDUMnqc5A/mqdefault.jpg' alt='la IA no es un escudo mágico' />
+  </a>
   <a href='https://www.youtube.com/shorts/-8p6IJ5Xj08' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/-8p6IJ5Xj08/mqdefault.jpg' alt='La recomendación para este fin de semana es la miniserie de #elcodigodeladiscordia #programacion' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/P-Gxa19QCuo' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/P-Gxa19QCuo/mqdefault.jpg' alt='💥Binance fue hackeado 🤯#gnuxdarnews #news #binance' />
-  </a>
-  <a href='https://www.youtube.com/shorts/O4LEfhv0HJA' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/O4LEfhv0HJA/mqdefault.jpg' alt='Canal autónomo, Instagram por ahora #desarrolloweb' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
