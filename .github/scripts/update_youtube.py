@@ -60,7 +60,11 @@ def send_discord_message(kind, title, video_url):
     request = urllib.request.Request(
         DISCORD_WEBHOOK_URL,
         data=payload,
-        headers={"Content-Type": "application/json"},
+        # Cloudflare (Discord) rechaza el User-Agent por defecto "Python-urllib" con HTTP 403 (error 1010).
+        headers={
+            "Content-Type": "application/json",
+            "User-Agent": "gnuxdar-youtube-bot (https://github.com/GNUXDAR/gnuxdar, 1.0)",
+        },
         method="POST",
     )
 
