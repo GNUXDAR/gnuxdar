@@ -55,6 +55,7 @@ def send_discord_message(kind, title, video_url):
     payload = json.dumps({
         "content": f"{kind} Nuevo video: {title}\n{video_url}",
         "username": "YouTube Bot",
+        "avatar_url": "https://raw.githubusercontent.com/GNUXDAR/gnuxdar/main/assets/discord-bot-avatar.png",
         "allowed_mentions": {"parse": []},
     }).encode("utf-8")
     request = urllib.request.Request(
