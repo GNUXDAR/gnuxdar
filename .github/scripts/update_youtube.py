@@ -1,9 +1,10 @@
-"""Actualiza las secciones de videos largos y shorts del README con lo último del canal y notifica en Discord si hay novedades."""
+"""Actualiza el README con los últimos videos y notifica en Discord los que aún no estén registrados."""
 import html
 import json
 import os
 import re
 import sys
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -13,11 +14,12 @@ STATE_FILE = "youtube_state.json"
 API_KEY = os.environ.get("YOUTUBE_API_KEY")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
 
-# YouTube expone una playlist automática por tipo: UULF = videos largos, UUSH = shorts
+# YouTube expone playlists automáticas: UULF = videos largos, UUSH = shorts.
 SECTIONS = [
     ("YOUTUBE-VIDEOS", "UULF" + CHANNEL_ID[2:], 8, "https://www.youtube.com/watch?v=", "🎬"),
     ("YOUTUBE-SHORTS", "UUSH" + CHANNEL_ID[2:], 4, "https://www.youtube.com/shorts/", "🎥"),
 ]
+
 
 def latest_videos(playlist_id, count):
     query = urllib.parse.urlencode({
@@ -34,30 +36,27 @@ def latest_videos(playlist_id, count):
         for item in items
     ]
 
+
 def read_state():
     try:
-        with open(STATE_FILE, encoding="utf-8") as f:
-            data = json.load(f)
-        if isinstance(data, dict):
-            return data
+        with open(STATE_FILE, encoding="utf-8") as state_file:
+            state = json.load(state_file)
+        if not isinstance(state, dict):
+            raise ValueError(f"{STATE_FILE} must contain a JSON object")
+        return state
     except FileNotFoundError:
-        pass
-    return {}
+        return {}
 
-def write_state(state):
-    with open(STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump(state, f, ensure_ascii=False, indent=2)
-        f.write("\n")
 
 def send_discord_message(kind, title, video_url):
     if not DISCORD_WEBHOOK_URL:
-        return
+        raise RuntimeError("Falta el secreto DISCORD_WEBHOOK_URL o está vacío")
 
     payload = json.dumps({
         "content": f"{kind} Nuevo video: {title}\n{video_url}",
         "username": "YouTube Bot",
+        "allowed_mentions": {"parse": []},
     }).encode("utf-8")
-
     request = urllib.request.Request(
         DISCORD_WEBHOOK_URL,
         data=payload,
@@ -68,9 +67,13 @@ def send_discord_message(kind, title, video_url):
     try:
         with urllib.request.urlopen(request, timeout=30) as response:
             if response.status not in (200, 204):
-                print(f"Discord respondió con estado {response.status}", file=sys.stderr)
-    except Exception as exc:
-        print(f"No se pudo enviar el mensaje a Discord: {exc}", file=sys.stderr)
+                raise RuntimeError(f"Discord respondió HTTP {response.status}")
+    except urllib.error.HTTPError as error:
+        # Nunca imprimir la URL: contiene el token privado del webhook.
+        raise RuntimeError(f"Discord rechazó el webhook (HTTP {error.code})") from None
+    except urllib.error.URLError as error:
+        raise RuntimeError(f"No se pudo conectar con Discord: {error.reason}") from None
+
 
 def render(videos, base_url):
     cards = "\n".join(
@@ -81,42 +84,52 @@ def render(videos, base_url):
     )
     return f'<p align="center">\n{cards}\n</p>'
 
+
 def main():
     if not API_KEY:
-        print("Falta el secret YOUTUBE_API_KEY, no se actualiza nada", file=sys.stderr)
-        return
+        sys.exit("Falta el secreto YOUTUBE_API_KEY; no se actualiza nada")
+    if not DISCORD_WEBHOOK_URL:
+        sys.exit("Falta el secreto DISCORD_WEBHOOK_URL; no se actualiza nada")
 
     state = read_state()
-
-    with open(README, encoding="utf-8") as f:
-        content = f.read()
+    with open(README, encoding="utf-8") as readme_file:
+        content = readme_file.read()
 
     for marker, playlist_id, count, base_url, kind in SECTIONS:
         videos = latest_videos(playlist_id, count)
         if not videos:
-            print(f"{marker}: sin videos, se deja igual", file=sys.stderr)
+            print(f"{marker}: YouTube no devolvió videos; se conserva el estado actual", file=sys.stderr)
             continue
 
         previous_ids = set(state.get(marker, []))
         new_videos = [(video_id, title) for video_id, title in videos if video_id not in previous_ids]
 
-        if new_videos:
-            for video_id, title in new_videos:
-                send_discord_message(kind, title, f"{base_url}{video_id}")
+        # Avisar primero; solo se guarda el ID si Discord aceptó el mensaje.
+        notified_ids = set()
+        for video_id, title in reversed(new_videos):
+            video_url = f"{base_url}{video_id}"
+            send_discord_message(kind, title, video_url)
+            print(f"Notificación enviada a Discord: {title} ({video_url})")
+            notified_ids.add(video_id)
 
-        state[marker] = [video_id for video_id, _ in videos]
+        state[marker] = [
+            video_id for video_id, _ in videos
+            if video_id in previous_ids or video_id in notified_ids
+        ]
 
         pattern = re.compile(f"(<!-- {marker}:START -->).*?(<!-- {marker}:END -->)", re.S)
         if not pattern.search(content):
             sys.exit(f"No se encontraron los marcadores {marker} en {README}")
         content = pattern.sub(
-            lambda m: f"{m.group(1)}\n{render(videos, base_url)}\n{m.group(2)}", content
+            lambda match: f"{match.group(1)}\n{render(videos, base_url)}\n{match.group(2)}", content
         )
 
-    write_state(state)
+    with open(STATE_FILE, "w", encoding="utf-8") as state_file:
+        json.dump(state, state_file, ensure_ascii=False, indent=2)
+        state_file.write("\n")
+    with open(README, "w", encoding="utf-8") as readme_file:
+        readme_file.write(content)
 
-    with open(README, "w", encoding="utf-8") as f:
-        f.write(content)
 
 if __name__ == "__main__":
     main()
