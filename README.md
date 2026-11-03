@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/cS6vyDqDLTM' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/cS6vyDqDLTM/mqdefault.jpg' alt='Ahora hay que estar pendiente del prompt injection #seguridadinformática' />
+  </a>
   <a href='https://www.youtube.com/shorts/P6JkOC_PxEQ' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/P6JkOC_PxEQ/mqdefault.jpg' alt='Actualmente analizar código con IA es mucha más rápido que antes de la IA #desarrolloweb' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/6VwDUMnqc5A' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/6VwDUMnqc5A/mqdefault.jpg' alt='la IA no es un escudo mágico' />
-  </a>
-  <a href='https://www.youtube.com/shorts/-8p6IJ5Xj08' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/-8p6IJ5Xj08/mqdefault.jpg' alt='La recomendación para este fin de semana es la miniserie de #elcodigodeladiscordia #programacion' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
