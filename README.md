@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/h5Uelg9f64E' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/h5Uelg9f64E/mqdefault.jpg' alt='Aun con IA es necesario dominar las bases' />
+  </a>
   <a href='https://www.youtube.com/shorts/cS6vyDqDLTM' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/cS6vyDqDLTM/mqdefault.jpg' alt='Ahora hay que estar pendiente del prompt injection #seguridadinformática' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/NYnprL83qKo' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/NYnprL83qKo/mqdefault.jpg' alt='Lo que se viene con la IA será más fuerte' />
-  </a>
-  <a href='https://www.youtube.com/shorts/6VwDUMnqc5A' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/6VwDUMnqc5A/mqdefault.jpg' alt='la IA no es un escudo mágico' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
