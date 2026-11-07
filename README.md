@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/O6PVzGM2ZEk' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/O6PVzGM2ZEk/mqdefault.jpg' alt='La experiencia marca la diferencia al vibecodear' />
+  </a>
   <a href='https://www.youtube.com/shorts/h5Uelg9f64E' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/h5Uelg9f64E/mqdefault.jpg' alt='Aun con IA es necesario dominar las bases' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/P6JkOC_PxEQ' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/P6JkOC_PxEQ/mqdefault.jpg' alt='Actualmente analizar código con IA es mucha más rápido que antes de la IA #desarrolloweb' />
-  </a>
-  <a href='https://www.youtube.com/shorts/NYnprL83qKo' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/NYnprL83qKo/mqdefault.jpg' alt='Lo que se viene con la IA será más fuerte' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
