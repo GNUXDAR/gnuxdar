@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/Wk_JrIWikk8' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/Wk_JrIWikk8/mqdefault.jpg' alt='¿Como defenderte de la ia?' />
+  </a>
   <a href='https://www.youtube.com/shorts/c-3cbtHxxuo' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/c-3cbtHxxuo/mqdefault.jpg' alt='Le delegamos demasiado a  la IA' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/O6PVzGM2ZEk' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/O6PVzGM2ZEk/mqdefault.jpg' alt='La experiencia marca la diferencia al vibecodear' />
-  </a>
-  <a href='https://www.youtube.com/shorts/h5Uelg9f64E' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/h5Uelg9f64E/mqdefault.jpg' alt='Aun con IA es necesario dominar las bases' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
