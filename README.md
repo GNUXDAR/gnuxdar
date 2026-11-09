@@ -74,6 +74,9 @@ Coming soon — certificates will appear here when available.
 -->
 <!-- YOUTUBE-VIDEOS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/watch?v=KQj15lML9ZQ' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/KQj15lML9ZQ/mqdefault.jpg' alt='Ahora sí está acabado PHP? Por qué todos lo odian (y sigue dominando la web)' />
+  </a>
   <a href='https://www.youtube.com/watch?v=f3ettKmm1sg' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/f3ettKmm1sg/mqdefault.jpg' alt='La IA no es un escudo mágico: las nuevas vulnerabilidades de la ciberseguridad' />
   </a>
@@ -95,15 +98,15 @@ Coming soon — certificates will appear here when available.
   <a href='https://www.youtube.com/watch?v=w90dr6Nhx9c' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/w90dr6Nhx9c/mqdefault.jpg' alt='Dejé de usar mi viejo audio: Unboxing de los nuevos DJI Mic Mini y Acer OHR631' />
   </a>
-  <a href='https://www.youtube.com/watch?v=12gfNL4J9FM' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/12gfNL4J9FM/mqdefault.jpg' alt='Récord Mundial de Mentira: El streaming más largo hecho por BOTS' />
-  </a>
 </p>
 <!-- YOUTUBE-VIDEOS:END -->
 
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/OcVb5gsRPq0' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/OcVb5gsRPq0/mqdefault.jpg' alt='La ciberseguridad ya no es solo parchear' />
+  </a>
   <a href='https://www.youtube.com/shorts/Wk_JrIWikk8' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/Wk_JrIWikk8/mqdefault.jpg' alt='¿Como defenderte de la ia?' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/Lm82lpL7ya0' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/Lm82lpL7ya0/mqdefault.jpg' alt='De anti IA a convertirme en vibecoder' />
-  </a>
-  <a href='https://www.youtube.com/shorts/O6PVzGM2ZEk' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/O6PVzGM2ZEk/mqdefault.jpg' alt='La experiencia marca la diferencia al vibecodear' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
