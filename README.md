@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/OaP4zyeoyjg' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/OaP4zyeoyjg/mqdefault.jpg' alt='PHP está acabado después de lo de #php2shell #desarrolloweb💻 #programacion #developer' />
+  </a>
   <a href='https://www.youtube.com/shorts/OcVb5gsRPq0' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/OcVb5gsRPq0/mqdefault.jpg' alt='La ciberseguridad ya no es solo parchear' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/c-3cbtHxxuo' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/c-3cbtHxxuo/mqdefault.jpg' alt='Le delegamos demasiado a  la IA' />
-  </a>
-  <a href='https://www.youtube.com/shorts/Lm82lpL7ya0' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/Lm82lpL7ya0/mqdefault.jpg' alt='De anti IA a convertirme en vibecoder' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
