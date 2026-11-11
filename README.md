@@ -74,6 +74,9 @@ Coming soon — certificates will appear here when available.
 -->
 <!-- YOUTUBE-VIDEOS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/watch?v=x1FDvYptVZw' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/x1FDvYptVZw/mqdefault.jpg' alt='PHP es el rey y los números lo respaldan #desarrolloweb💻 #programacion #developer #web #recomendado' />
+  </a>
   <a href='https://www.youtube.com/watch?v=KQj15lML9ZQ' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/KQj15lML9ZQ/mqdefault.jpg' alt='Ahora sí está acabado PHP? Por qué todos lo odian (y sigue dominando la web)' />
   </a>
@@ -95,15 +98,15 @@ Coming soon — certificates will appear here when available.
   <a href='https://www.youtube.com/watch?v=8efgLt7P2v8' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/8efgLt7P2v8/mqdefault.jpg' alt='Naruto x Bob Esponja: La creación más absurda y genial hecha con IA' />
   </a>
-  <a href='https://www.youtube.com/watch?v=w90dr6Nhx9c' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/w90dr6Nhx9c/mqdefault.jpg' alt='Dejé de usar mi viejo audio: Unboxing de los nuevos DJI Mic Mini y Acer OHR631' />
-  </a>
 </p>
 <!-- YOUTUBE-VIDEOS:END -->
 
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/vQO-NpmljAw' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/vQO-NpmljAw/mqdefault.jpg' alt='El Origen del odio a php' />
+  </a>
   <a href='https://www.youtube.com/shorts/x1FDvYptVZw' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/x1FDvYptVZw/mqdefault.jpg' alt='PHP es el rey y los números lo respaldan #desarrolloweb💻 #programacion #developer #web #recomendado' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/OcVb5gsRPq0' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/OcVb5gsRPq0/mqdefault.jpg' alt='La ciberseguridad ya no es solo parchear' />
-  </a>
-  <a href='https://www.youtube.com/shorts/Wk_JrIWikk8' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/Wk_JrIWikk8/mqdefault.jpg' alt='¿Como defenderte de la ia?' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
