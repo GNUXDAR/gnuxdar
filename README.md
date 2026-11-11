@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/x1FDvYptVZw' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/x1FDvYptVZw/mqdefault.jpg' alt='PHP es el rey y los números lo respaldan #desarrolloweb💻 #programacion #developer #web #recomendado' />
+  </a>
   <a href='https://www.youtube.com/shorts/OaP4zyeoyjg' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/OaP4zyeoyjg/mqdefault.jpg' alt='PHP está acabado después de lo de #php2shell #desarrolloweb💻 #programacion #developer' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/Wk_JrIWikk8' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/Wk_JrIWikk8/mqdefault.jpg' alt='¿Como defenderte de la ia?' />
-  </a>
-  <a href='https://www.youtube.com/shorts/c-3cbtHxxuo' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/c-3cbtHxxuo/mqdefault.jpg' alt='Le delegamos demasiado a  la IA' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
