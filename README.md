@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/nNBrgKqNB8s' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/nNBrgKqNB8s/mqdefault.jpg' alt='LA Comunidad PHP esta muy activa' />
+  </a>
   <a href='https://www.youtube.com/shorts/DxPTqazpY3s' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/DxPTqazpY3s/mqdefault.jpg' alt='Actualmente hay un odio a PHP injustificado' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/vQO-NpmljAw' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/vQO-NpmljAw/mqdefault.jpg' alt='El Origen del odio a php' />
-  </a>
-  <a href='https://www.youtube.com/shorts/x1FDvYptVZw' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/x1FDvYptVZw/mqdefault.jpg' alt='PHP es el rey y los números lo respaldan #desarrolloweb💻 #programacion #developer #web #recomendado' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
