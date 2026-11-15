@@ -74,6 +74,9 @@ Coming soon — certificates will appear here when available.
 -->
 <!-- YOUTUBE-VIDEOS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/watch?v=2rp9MKua76E' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/2rp9MKua76E/mqdefault.jpg' alt='¿Ahora sí está acabado jQuery? La librería que salvó la web' />
+  </a>
   <a href='https://www.youtube.com/watch?v=KQj15lML9ZQ' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/KQj15lML9ZQ/mqdefault.jpg' alt='Ahora sí está acabado PHP? Por qué todos lo odian (y sigue dominando la web)' />
   </a>
@@ -94,9 +97,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/watch?v=8efgLt7P2v8' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/8efgLt7P2v8/mqdefault.jpg' alt='Naruto x Bob Esponja: La creación más absurda y genial hecha con IA' />
-  </a>
-  <a href='https://www.youtube.com/watch?v=w90dr6Nhx9c' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/w90dr6Nhx9c/mqdefault.jpg' alt='Dejé de usar mi viejo audio: Unboxing de los nuevos DJI Mic Mini y Acer OHR631' />
   </a>
 </p>
 <!-- YOUTUBE-VIDEOS:END -->
