@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/Nyu7LgcvHNw' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/Nyu7LgcvHNw/mqdefault.jpg' alt='Así era programar ANTES de jQuery 😩 #javascript #desarrolloweb #programacion' />
+  </a>
   <a href='https://www.youtube.com/shorts/ZMjVTbka6F8' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/ZMjVTbka6F8/mqdefault.jpg' alt='Sigues odiando a PHP?' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/DxPTqazpY3s' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/DxPTqazpY3s/mqdefault.jpg' alt='Actualmente hay un odio a PHP injustificado' />
-  </a>
-  <a href='https://www.youtube.com/shorts/XRSB7gOyBnc' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/XRSB7gOyBnc/mqdefault.jpg' alt='El código espagueti de php le hizo que le odiaran' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
