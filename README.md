@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/RMYmkSJtYm8' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/RMYmkSJtYm8/mqdefault.jpg' alt='¿Por qué jQuery conquistó la web? #jquery #javascript #desarrolloweb' />
+  </a>
   <a href='https://www.youtube.com/shorts/Nyu7LgcvHNw' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/Nyu7LgcvHNw/mqdefault.jpg' alt='Así era programar ANTES de jQuery 😩 #javascript #desarrolloweb #programacion' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/nNBrgKqNB8s' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/nNBrgKqNB8s/mqdefault.jpg' alt='LA Comunidad PHP esta muy activa' />
-  </a>
-  <a href='https://www.youtube.com/shorts/DxPTqazpY3s' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/DxPTqazpY3s/mqdefault.jpg' alt='Actualmente hay un odio a PHP injustificado' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
