@@ -74,6 +74,9 @@ Coming soon — certificates will appear here when available.
 -->
 <!-- YOUTUBE-VIDEOS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/watch?v=iI79ogVxRGM' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/iI79ogVxRGM/mqdefault.jpg' alt='GTA 6 se hizo SIN IA: 600.000 animaciones a mano' />
+  </a>
   <a href='https://www.youtube.com/watch?v=2rp9MKua76E' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/2rp9MKua76E/mqdefault.jpg' alt='¿Ahora sí está acabado jQuery? La librería que salvó la web' />
   </a>
@@ -94,9 +97,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/watch?v=hsH8I7AmdvA' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/hsH8I7AmdvA/mqdefault.jpg' alt='¡El fin de los juegos físicos! PlayStation confirma el cambio radical.' />
-  </a>
-  <a href='https://www.youtube.com/watch?v=8efgLt7P2v8' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/8efgLt7P2v8/mqdefault.jpg' alt='Naruto x Bob Esponja: La creación más absurda y genial hecha con IA' />
   </a>
 </p>
 <!-- YOUTUBE-VIDEOS:END -->
