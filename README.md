@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/rYOph_jVjH4' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/rYOph_jVjH4/mqdefault.jpg' alt='¿Vale la pena aprender jQuery en 2026? #jquery #javascript #programacion' />
+  </a>
   <a href='https://www.youtube.com/shorts/nu7iQqVLU-o' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/nu7iQqVLU-o/mqdefault.jpg' alt='jQuery NO está muerto: sigue en 2 de cada 3 webs #jquery #wordpress #javascript' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/JizZLLcchhY' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/JizZLLcchhY/mqdefault.jpg' alt='¿Por qué jQuery se acabó? #jquery #react #javascript' />
-  </a>
-  <a href='https://www.youtube.com/shorts/RMYmkSJtYm8' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/RMYmkSJtYm8/mqdefault.jpg' alt='¿Por qué jQuery conquistó la web? #jquery #javascript #desarrolloweb' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
