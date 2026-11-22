@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/qlIH91CM0UM' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/qlIH91CM0UM/mqdefault.jpg' alt='#gta6 ya esta en el mercado' />
+  </a>
   <a href='https://www.youtube.com/shorts/rYOph_jVjH4' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/rYOph_jVjH4/mqdefault.jpg' alt='¿Vale la pena aprender jQuery en 2026? #jquery #javascript #programacion' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/4ps4af7fiRo' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/4ps4af7fiRo/mqdefault.jpg' alt='GitHub y el gobierno del Reino Unido dejaron jQuery #github #javascript #desarrolloweb' />
-  </a>
-  <a href='https://www.youtube.com/shorts/JizZLLcchhY' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/JizZLLcchhY/mqdefault.jpg' alt='¿Por qué jQuery se acabó? #jquery #react #javascript' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
