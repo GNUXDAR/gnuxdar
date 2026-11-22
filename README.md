@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/fLZRKT8A02w' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/fLZRKT8A02w/mqdefault.jpg' alt='Los numeros de #gta6' />
+  </a>
   <a href='https://www.youtube.com/shorts/qlIH91CM0UM' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/qlIH91CM0UM/mqdefault.jpg' alt='#gta6 ya esta en el mercado' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/nu7iQqVLU-o' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/nu7iQqVLU-o/mqdefault.jpg' alt='jQuery NO está muerto: sigue en 2 de cada 3 webs #jquery #wordpress #javascript' />
-  </a>
-  <a href='https://www.youtube.com/shorts/4ps4af7fiRo' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/4ps4af7fiRo/mqdefault.jpg' alt='GitHub y el gobierno del Reino Unido dejaron jQuery #github #javascript #desarrolloweb' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
