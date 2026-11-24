@@ -104,17 +104,17 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/ghyfo4rQVz8' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/ghyfo4rQVz8/mqdefault.jpg' alt='#gta6  no disc no buy no funciono' />
+  </a>
+  <a href='https://www.youtube.com/shorts/8-Af3SfFjts' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/8-Af3SfFjts/mqdefault.jpg' alt='#gta6 no trae disco' />
+  </a>
   <a href='https://www.youtube.com/shorts/fLZRKT8A02w' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/fLZRKT8A02w/mqdefault.jpg' alt='Los numeros de #gta6' />
   </a>
   <a href='https://www.youtube.com/shorts/qlIH91CM0UM' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/qlIH91CM0UM/mqdefault.jpg' alt='#gta6 ya esta en el mercado' />
-  </a>
-  <a href='https://www.youtube.com/shorts/rYOph_jVjH4' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/rYOph_jVjH4/mqdefault.jpg' alt='¿Vale la pena aprender jQuery en 2026? #jquery #javascript #programacion' />
-  </a>
-  <a href='https://www.youtube.com/shorts/nu7iQqVLU-o' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/nu7iQqVLU-o/mqdefault.jpg' alt='jQuery NO está muerto: sigue en 2 de cada 3 webs #jquery #wordpress #javascript' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
