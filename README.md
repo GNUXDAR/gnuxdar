@@ -104,17 +104,17 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/sLmJexIu938' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/sLmJexIu938/mqdefault.jpg' alt='#gta6 600.000 animaciones' />
+  </a>
+  <a href='https://www.youtube.com/shorts/PADiVy7aWdA' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/PADiVy7aWdA/mqdefault.jpg' alt='#gta6 por que gta 6 va a 30 fps' />
+  </a>
   <a href='https://www.youtube.com/shorts/OD8YjyKc6HA' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/OD8YjyKc6HA/mqdefault.jpg' alt='#gta6 ¿Como esta hecho?' />
   </a>
   <a href='https://www.youtube.com/shorts/nr3DTz_J__U' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/nr3DTz_J__U/mqdefault.jpg' alt='#gta6  por que tardo 13 anos' />
-  </a>
-  <a href='https://www.youtube.com/shorts/ghyfo4rQVz8' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/ghyfo4rQVz8/mqdefault.jpg' alt='#gta6  no disc no buy no funciono' />
-  </a>
-  <a href='https://www.youtube.com/shorts/8-Af3SfFjts' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/8-Af3SfFjts/mqdefault.jpg' alt='#gta6 no trae disco' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
