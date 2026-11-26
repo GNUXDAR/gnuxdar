@@ -104,17 +104,17 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/RQgFg_ei2Nk' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/RQgFg_ei2Nk/mqdefault.jpg' alt='#gta6 la ia que hundio la bolsa' />
+  </a>
+  <a href='https://www.youtube.com/shorts/ssHFDOCPTPs' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/ssHFDOCPTPs/mqdefault.jpg' alt='#gta6  rockstar le dio la espalda a la ia' />
+  </a>
   <a href='https://www.youtube.com/shorts/sLmJexIu938' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/sLmJexIu938/mqdefault.jpg' alt='#gta6 600.000 animaciones' />
   </a>
   <a href='https://www.youtube.com/shorts/PADiVy7aWdA' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/PADiVy7aWdA/mqdefault.jpg' alt='#gta6 por que gta 6 va a 30 fps' />
-  </a>
-  <a href='https://www.youtube.com/shorts/OD8YjyKc6HA' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/OD8YjyKc6HA/mqdefault.jpg' alt='#gta6 ¿Como esta hecho?' />
-  </a>
-  <a href='https://www.youtube.com/shorts/nr3DTz_J__U' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/nr3DTz_J__U/mqdefault.jpg' alt='#gta6  por que tardo 13 anos' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
