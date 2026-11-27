@@ -104,6 +104,9 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/vCrjmY-S7fc' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/vCrjmY-S7fc/mqdefault.jpg' alt='#gta6 la ia te da el borrador' />
+  </a>
   <a href='https://www.youtube.com/shorts/RQgFg_ei2Nk' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/RQgFg_ei2Nk/mqdefault.jpg' alt='#gta6 la ia que hundio la bolsa' />
   </a>
@@ -112,9 +115,6 @@ Coming soon — certificates will appear here when available.
   </a>
   <a href='https://www.youtube.com/shorts/sLmJexIu938' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/sLmJexIu938/mqdefault.jpg' alt='#gta6 600.000 animaciones' />
-  </a>
-  <a href='https://www.youtube.com/shorts/PADiVy7aWdA' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/PADiVy7aWdA/mqdefault.jpg' alt='#gta6 por que gta 6 va a 30 fps' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
