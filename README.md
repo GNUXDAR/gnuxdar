@@ -104,17 +104,17 @@ Coming soon — certificates will appear here when available.
 ### 🎬 Latest Shorts
 <!-- YOUTUBE-SHORTS:START -->
 <p align="center">
+  <a href='https://www.youtube.com/shorts/lyFsACNOXJE' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/lyFsACNOXJE/mqdefault.jpg' alt='#gta6 datos curiosos' />
+  </a>
+  <a href='https://www.youtube.com/shorts/9BkFJ7R2RHw' target='_blank'>
+    <img width='23%' src='https://img.youtube.com/vi/9BkFJ7R2RHw/mqdefault.jpg' alt='#gta6 que significa gta 6 para la industria?' />
+  </a>
   <a href='https://www.youtube.com/shorts/hIFV-Z62two' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/hIFV-Z62two/mqdefault.jpg' alt='#gta6 asi hackearon gta 6' />
   </a>
   <a href='https://www.youtube.com/shorts/vCrjmY-S7fc' target='_blank'>
     <img width='23%' src='https://img.youtube.com/vi/vCrjmY-S7fc/mqdefault.jpg' alt='#gta6 la ia te da el borrador' />
-  </a>
-  <a href='https://www.youtube.com/shorts/RQgFg_ei2Nk' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/RQgFg_ei2Nk/mqdefault.jpg' alt='#gta6 la ia que hundio la bolsa' />
-  </a>
-  <a href='https://www.youtube.com/shorts/ssHFDOCPTPs' target='_blank'>
-    <img width='23%' src='https://img.youtube.com/vi/ssHFDOCPTPs/mqdefault.jpg' alt='#gta6  rockstar le dio la espalda a la ia' />
   </a>
 </p>
 <!-- YOUTUBE-SHORTS:END -->
